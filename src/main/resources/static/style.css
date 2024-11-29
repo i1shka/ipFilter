@@ -1,0 +1,27 @@
+body {font: 0.9em / 2em Arial;
+color: #333;}
+
+.form {
+    background: #f0f0f0;
+    margin: 30px 0px;
+    padding: 30px;
+    }
+.form input, button, select {
+    padding: 10px;
+    margin: 10px;
+    display:block;
+    }
+.error {
+color:red;
+padding: 20px 30px;
+}
+.list{
+background: #dce9f1;
+    border: 1px solid #ccc;
+    width: 200px;
+    margin: 40px;
+    padding: 20px 30px;
+}
+.list p {
+    margin: 0;
+}
